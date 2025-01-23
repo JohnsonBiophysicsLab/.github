@@ -1,4 +1,5 @@
 ## Hi there 👋
+## This is the Johnson's lab in Johns Hopkins University who developed the NonEquilibrium Reaction-Diffusion Self-assembly Simulator (NERDSS).
 
 <!--
 JohnsonBiophysicsLab/.github is a special repository.
